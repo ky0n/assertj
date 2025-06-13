@@ -1,3 +1,4 @@
 package org.assertj.tests.core.kotlin.testkit;
 
-public record Data(String name) {}
+public record StringType(String value) {
+}

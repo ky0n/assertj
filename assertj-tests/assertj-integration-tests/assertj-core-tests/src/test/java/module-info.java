@@ -24,4 +24,5 @@ open module org.assertj.tests.core {
   requires org.junit.jupiter.params;
   requires org.junitpioneer;
   requires org.mockito;
+   requires jdk.jdi;
 }
